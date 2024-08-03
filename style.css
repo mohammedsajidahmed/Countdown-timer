@@ -1,0 +1,29 @@
+body {
+  text-align: center;
+  font-family: sans-serif;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input {
+  width: 40px;
+  height: 70px;
+  text-align: center;
+  font-size: 4rem;
+  margin: 5px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+button {
+  background-color: cyan;
+  padding: 15px 30px;
+  border-radius: 5px;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+p {
+  font-size: 1.5rem;
+}
